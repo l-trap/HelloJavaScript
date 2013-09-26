@@ -23,7 +23,7 @@
         </header>
 
         
-          <input type="submit" class="button" value="Click me now!" onclick="alert('Just to say you're beautiful')">
+          <input type="submit" value="Click me now!" onclick='alert("Just to say you're beautiful")'>
          
 
         <hr>
